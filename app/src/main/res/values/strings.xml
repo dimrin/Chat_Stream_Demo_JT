@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chat_Stream_JT_MVVM</string>
+    <string name="api_key">ptt2xsz6xhqd</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZGltcmluIn0.LfeQDtE8I9UnkuBaIS1osBtbfBaIsdq3aEHzmluz_1E</string>
+</resources>
